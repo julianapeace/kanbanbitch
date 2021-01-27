@@ -152,6 +152,7 @@ HOME
   font-size: 2em;
   font-family: 'Roboto Slab';
   line-height: 0.2em;
+  text-shadow: 1px 1px #888;
 }
 
 .payloadBox{
