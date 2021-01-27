@@ -6,6 +6,20 @@ body{
   color: #212121;
   text-align: center;
 }
+
+.logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem;
+  width: 25%;
+}
+.logoHolder{
+  display: flex;
+  flex-wrap: wrap;
+  /* position: absolute;
+  bottom: 0; */
+}
 /******************************************************
 NAVBAR
 ******************************************************/
