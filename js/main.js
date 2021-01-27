@@ -3,7 +3,7 @@ $(document).ready(function() {
 });
 
 new TypeIt('#typeit', {
-   strings: ["Software Developer", "Ukulele Player"],
+   strings: ["Agile-Driven", "Bitchiness"],
    speed: 75,
    breakLines: false,
    autoStart: true,
